@@ -1,0 +1,32 @@
+body{
+    margin: auto;    
+    
+}
+
+button{
+    border-radius: 50%;
+   padding: 5px;
+   font-size: 20px;
+}
+
+.single2{
+    padding:5px 11px;
+}
+
+.single{
+    padding:5px 10px;
+}
+
+.elevators{
+    padding:40px;
+    text-align: center;
+    margin: auto;
+}
+
+.indicator{
+    border: 2px black solid;
+    color: red;
+    background-color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
